@@ -9,7 +9,7 @@
 ### About
 ...
 
-### Installaion
+### Installation
 ```
 cd ~; git clone https://github.com/Trabbit1/Punisher-Toolkit.git; cd Punisher-Toolkit; chmod +x *; ./main.sh
 ```
