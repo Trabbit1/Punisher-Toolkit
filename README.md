@@ -7,7 +7,11 @@
 </div>
 
 ### About
-...
+Open Source Hacking & Penetration Testing Toolkit
+
+Modules Supported In:
+- Python
+- Bash
 
 ### Installation
 ```
